@@ -1,0 +1,27 @@
+Weekly Progress Report: 05/08-05/12
+
+Progress/Accomplishments:
+
+● The group met on Tuesday to talk about our expectations for both projects
+following our presentations last Friday
+● Arlo and Mike began researching and implementing alternative strategies for
+the imputation of missing data, beyond the previously used K-Nearest
+Neighbors method
+● Rishab had several other ideas for model improvements, with ideas from
+Friday’s presentation in mind
+
+Problems/Challenges:
+
+● Some good discussion regarding what ideas were best to draw upon from
+observing other presentations, and recommendations from Lizhen
+
+Plan/Next Steps:
+
+● Next week we plan on becoming more active in the Kaggle competition,
+ideally making several submissions
+● Finalize new imputation strategies
+● Continue to stay on task and identify alternative model improvement
+strategies
+
+We continue to feel confident and comfortable with the progress we have made as we
+move forward
