@@ -1,0 +1,25 @@
+Weekly Progress Report: 05/015-05/19
+
+Progress/Accomplishments:
+● The group met on Tuesday to talk about our expectations for both
+projects.
+● With our presentations coming soon, Arlo and Mike continued
+researching and implementing alternative strategies for the imputation
+of missing data, beyond the previously used K-Nearest Neighbors
+method
+● Rishab had several other ideas for model improvements, drawing upon
+already considered ideas
+
+Problems/Challenges:
+● Some good continued discussion regarding what ideas were best to
+draw upon from observing other presentations, and recommendations
+from Lizhen
+
+Plan/Next Steps:
+● Prepare our presentation for client
+● Finalize new imputation strategies
+● Continue to stay on task and identify alternative model improvement
+strategies
+
+We continue to feel confident and comfortable with the progress we have
+made as we move forward
